@@ -1,3 +1,4 @@
+## 📌 Intro
 
   This project performs exploratory data analysis (EDA) on a movie dataset using Python.
   It focuses on cleaning, transforming, and analyzing movie-related data such as genres,
